@@ -1,0 +1,14 @@
+C:\Users\97250\source\repos\Browser Monitor\bin\Debug\net10.0\Browser Monitor.exe
+C:\Users\97250\source\repos\Browser Monitor\bin\Debug\net10.0\Browser Monitor.deps.json
+C:\Users\97250\source\repos\Browser Monitor\bin\Debug\net10.0\Browser Monitor.runtimeconfig.json
+C:\Users\97250\source\repos\Browser Monitor\bin\Debug\net10.0\Browser Monitor.dll
+C:\Users\97250\source\repos\Browser Monitor\bin\Debug\net10.0\Browser Monitor.pdb
+C:\Users\97250\source\repos\Browser Monitor\obj\Debug\net10.0\Browser Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97250\source\repos\Browser Monitor\obj\Debug\net10.0\Browser Monitor.AssemblyInfoInputs.cache
+C:\Users\97250\source\repos\Browser Monitor\obj\Debug\net10.0\Browser Monitor.AssemblyInfo.cs
+C:\Users\97250\source\repos\Browser Monitor\obj\Debug\net10.0\Browser Monitor.csproj.CoreCompileInputs.cache
+C:\Users\97250\source\repos\Browser Monitor\obj\Debug\net10.0\Browser Monitor.dll
+C:\Users\97250\source\repos\Browser Monitor\obj\Debug\net10.0\refint\Browser Monitor.dll
+C:\Users\97250\source\repos\Browser Monitor\obj\Debug\net10.0\Browser Monitor.pdb
+C:\Users\97250\source\repos\Browser Monitor\obj\Debug\net10.0\Browser Monitor.genruntimeconfig.cache
+C:\Users\97250\source\repos\Browser Monitor\obj\Debug\net10.0\ref\Browser Monitor.dll
