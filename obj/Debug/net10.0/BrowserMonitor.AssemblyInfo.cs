@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrowserMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a36c28811b384e487deb42dab530a3f1c783c8f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrowserMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrowserMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
